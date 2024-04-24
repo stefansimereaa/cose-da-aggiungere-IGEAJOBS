@@ -10,7 +10,6 @@
 10. Tabella aziende
 11. Reset filtro ricerca
 12. Research page manca la quantità di risultati
-15. Aggiungere altro voci professional area e qualify
 16. Obbligatoria autorizazzione privacy
 18. Dashboard amministratore e pulsante anteprima profilo
 19. Creazione articoli da ruolo editor
