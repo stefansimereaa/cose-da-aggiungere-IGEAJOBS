@@ -7,7 +7,6 @@
 5. Iscrizione sul db crea marcatore sulla mappa
 6. Protezioni cambio URL manuale
 7. I badge corsi in base al prezzo e tipo corso 
-8. Alcuni fix profile page
 9. Fixare profile page cose quando non inserite
 10. Tabella aziende
 11. Reset filtro ricerca
