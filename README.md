@@ -12,7 +12,6 @@
 12. Research page manca la quantità di risultati
 16. Obbligatoria autorizazzione privacy
 18. Dashboard amministratore e pulsante anteprima profilo
-19. Creazione articoli da ruolo editor
 20. Creazione profilo azienda
 21. Organizazzione dare livello editor per creare articoli
 22. Annunci di lavoro sezione
