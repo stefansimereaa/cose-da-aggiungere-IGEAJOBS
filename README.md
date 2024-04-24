@@ -7,12 +7,9 @@
 5. Iscrizione sul db crea marcatore sulla mappa
 6. Protezioni cambio URL manuale
 7. I badge corsi in base al prezzo e tipo corso 
-9. Fixare profile page cose quando non inserite
 10. Tabella aziende
 11. Reset filtro ricerca
 12. Research page manca la quantità di risultati
-13. Levare dettagli mancanti profile page ( scuola, eta)
-14. Cognome puntato da aggiungere
 15. Aggiungere altro voci professional area e qualify
 16. Obbligatoria autorizazzione privacy
 18. Dashboard amministratore e pulsante anteprima profilo
