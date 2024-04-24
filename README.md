@@ -16,3 +16,4 @@
 21. Organizazzione dare livello editor per creare articoli
 22. Annunci di lavoro sezione
 23. Style da rifare
+24. fixare ricerca messages (non funziona per ora )
