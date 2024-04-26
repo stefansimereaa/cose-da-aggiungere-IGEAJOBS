@@ -10,7 +10,6 @@
 10. Tabella aziende
 11. Reset filtro ricerca
 12. Research page manca la quantità di risultati
-16. Obbligatoria autorizazzione privacy
 18. Dashboard amministratore e pulsante anteprima profilo
 20. Creazione profilo azienda
 21. Organizazzione dare livello editor per creare articoli
