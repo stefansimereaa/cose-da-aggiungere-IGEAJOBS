@@ -11,10 +11,7 @@
 10. Research page manca la quantità di risultati
 11. Dashboard amministratore
 12. Creazione profilo azienda
-13. Organizazzione dare livello editor per creare articoli
 14. Annunci di lavoro sezione
-15. Style da rifare
 16. aggiungere scritto da articoli, modificare save tabella e modifiche controller
-17. modificare form registrazione, dividerli per categorie e aggiungere info btn
-18. complete register modificare avviso solo 3 selezioni area,qualify,lingue,lavoro
 19. fixare btn research card
+20. caaricamenti vuoti school work language
