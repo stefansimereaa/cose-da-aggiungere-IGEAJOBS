@@ -8,9 +8,8 @@
 6. Protezioni cambio URL manuale
 7. I badge corsi in base al prezzo e tipo corso 
 8. Tabella aziende
-9. Reset filtro ricerca
 10. Research page manca la quantità di risultati
-11. Dashboard amministratore e pulsante anteprima profilo
+11. Dashboard amministratore
 12. Creazione profilo azienda
 13. Organizazzione dare livello editor per creare articoli
 14. Annunci di lavoro sezione
