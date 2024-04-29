@@ -17,3 +17,4 @@
 16. aggiungere scritto da articoli, modificare save tabella e modifiche controller
 17. modificare form registrazione, dividerli per categorie e aggiungere info btn
 18. complete register modificare avviso solo 3 selezioni area,qualify,lingue,lavoro
+19. fixare btn research card
