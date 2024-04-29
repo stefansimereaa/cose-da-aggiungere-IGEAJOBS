@@ -16,3 +16,4 @@
 14. Annunci di lavoro sezione
 15. Style da rifare
 16. aggiungere scritto da articoli, modificare save tabella e modifiche controller
+17. modificare form registrazione, dividerli per categorie e aggiungere info btn
