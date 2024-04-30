@@ -8,8 +8,6 @@
 6. Protezioni cambio URL manuale
 7. I badge corsi in base al prezzo e tipo corso 
 8. Tabella aziende
-10. Research page manca la quantità di risultati
-11. Dashboard amministratore
 12. Creazione profilo azienda
 14. Annunci di lavoro sezione
 16. aggiungere scritto da articoli, modificare save tabella e modifiche controller
