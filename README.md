@@ -10,4 +10,4 @@
 8. Tabella aziende
 12. Creazione profilo azienda
 14. Annunci di lavoro sezione
-16. aggiungere scritto da articoli, modificare save tabella e modifiche controller
+
