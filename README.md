@@ -2,7 +2,6 @@
 
 1. responsive
 2. Fix grafici
-3. Fixare caricamenti su db di tiny
 4. Protezioni URL
 5. Iscrizione sul db crea marcatore sulla mappa
 6. Protezioni cambio URL manuale
