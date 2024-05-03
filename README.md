@@ -2,11 +2,9 @@
 
 1. responsive
 2. Fix grafici
-4. Protezioni URL
-5. Iscrizione sul db crea marcatore sulla mappa
-6. Protezioni cambio URL manuale
-7. I badge corsi in base al prezzo e tipo corso 
-8. Tabella aziende
-12. Creazione profilo azienda
-14. Annunci di lavoro sezione
+3. Iscrizione sul db crea marcatore sulla mappa
+5. I badge corsi in base al prezzo e tipo corso 
+6. Tabella aziende
+7. Creazione profilo azienda
+8. Annunci di lavoro sezione
 
