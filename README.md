@@ -6,6 +6,7 @@
 4. Tabella aziende
 5. Creazione profilo azienda
 6. Annunci di lavoro sezione
+7. dashboard user inserire dove puo vedere/modificare il cv caricato
 
 
 https://it.ucv.online/orgs/aa/edit
