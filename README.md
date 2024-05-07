@@ -4,7 +4,7 @@
 2. alcuni fix immagini profili e blog (Online sito)
 3. I badge corsi in base al prezzo e tipo corso 
 4. Tabella aziende
-5. Creazione profilo azienda
+5. Creazione profilo azienda /edit /eliminazione
 6. Annunci di lavoro sezione
 7. dashboard user inserire dove puo vedere/modificare il cv caricato
 8. valori campo autocompilati form gestisci profilo
