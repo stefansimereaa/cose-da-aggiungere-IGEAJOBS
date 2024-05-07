@@ -8,6 +8,7 @@
 6. Annunci di lavoro sezione
 7. dashboard user inserire dove puo vedere/modificare il cv caricato
 8. valori campo autocompilati form gestisci profilo
+9. gestisci profilo aggiungere colonna companies ai profili se l hanno e ricerca per companies
 
 
 https://it.ucv.online/orgs/aa/edit
