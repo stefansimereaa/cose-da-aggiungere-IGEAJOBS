@@ -11,6 +11,6 @@
 9. gestisci profilo aggiungere colonna companies ai profili se l hanno e ricerca per companies
 10. aggiungere deselezione corsi da mostrare o non /cancellazione dal profilo
 11. aggiungere eliminazioni informazioni di tutti i dati
-
+12. correggere frecce forms aziende
 
 https://it.ucv.online/orgs/aa/edit
