@@ -12,5 +12,6 @@
 10. aggiungere deselezione corsi da mostrare o non /cancellazione dal profilo
 11. aggiungere eliminazioni informazioni di tutti i dati
 12. correggere frecce forms aziende
+13. aggiungere pulsante elimina messaggi ricevuti, ordinarli dal piu recente
 
 https://it.ucv.online/orgs/aa/edit
