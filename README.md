@@ -10,4 +10,5 @@
 13. aggiungere eliminazioni informazioni di tutti i dati
 16. aggiungere sulla mappa con creazine punti per nuove aziende iscritte
 19. foto azienda verificare funzionamento
+20. manca index companies
 https://it.ucv.online/orgs/aa/edit
