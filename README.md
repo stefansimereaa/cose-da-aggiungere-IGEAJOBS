@@ -11,4 +11,6 @@
 16. aggiungere sulla mappa con creazine punti per nuove aziende iscritte
 19. foto azienda verificare funzionamento
 20. manca index companies
+
+21. risolvere classi active dropdowns e colori
 https://it.ucv.online/orgs/aa/edit
