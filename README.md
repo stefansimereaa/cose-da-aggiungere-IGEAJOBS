@@ -3,7 +3,6 @@
 1. responsive
 2. alcuni fix immagini profili e blog (Online sito)
 3. I badge corsi in base al prezzo e tipo corso 
-8. show azienda
 9. Annunci di lavoro sezione
 10. dashboard user inserire dove puo vedere/modificare il cv caricato
 12. aggiungere deselezione corsi da mostrare o non /cancellazione dal profilo
@@ -11,6 +10,6 @@
 16. aggiungere sulla mappa con creazine punti per nuove aziende iscritte
 19. foto azienda verificare funzionamento
 20. manca index companies
-
-21. risolvere classi active dropdowns e colori
+21. manca candidati
+22. show joboffer
 https://it.ucv.online/orgs/aa/edit
