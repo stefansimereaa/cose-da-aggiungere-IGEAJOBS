@@ -1,4 +1,9 @@
 # Cose da aggiungere
+cv obbligatorio manca
+
+
+
+
 
 1. responsive
 2. alcuni fix immagini profili e blog (Online sito)
