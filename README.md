@@ -1,5 +1,6 @@
 # Cose da aggiungere
-cv obbligatorio manca
+MANCA LOGICA CARICAMENTE CERTIFICAZIONI PROTEZIONE 
+PER CARICARE SOLO UN TIPO
 
 
 
