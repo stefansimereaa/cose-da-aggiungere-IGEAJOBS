@@ -28,9 +28,6 @@ togliere se non ci sono dashboard
 soltanto corsi a pagamento
 verificare corsi a pagamento per altre email iscritte
 aggiungere visualizazzione utente
-tutti campi fino a istruzione obbligatoria
-presentazione obbligatoria>>>>>OBIETTIVI PROFESSIONALE COME UCV
-Certificazioni aggiungere >>>> scritte>>>> a candidatura potrebbero essere richieste in pdf
 ((((aggiungere url offerta di lavoro se sei azienda)))
 cv inserito per forza 
 
@@ -44,14 +41,7 @@ correggere titoli input togliere protezione accenti
 aggiungere save cv creato come ucv , in pdf
 deve salvare autorizazzione
 anche photo
-resettato lingua manca visualizazzion
-licenza media
-scuola superiore
-laurea triennale
-laurea specializzata
-scuola di specializazzione
-dottorato
-voto conseguito aggiungere ( voto non obbligatorio, neanche descrizione ) ( SCUOLO COMPLETE REGISTER ) 
+resettato lingua manca visualizazzion 
 
 // CREAZIONE BUSINESS
 togliere htpps mettere 
