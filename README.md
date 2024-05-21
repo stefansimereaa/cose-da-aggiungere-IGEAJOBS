@@ -1,6 +1,4 @@
 # Cose da aggiungere
-MANCA LOGICA CARICAMENTE CERTIFICAZIONI PROTEZIONE 
-PER CARICARE SOLO UN TIPO
 
 
 
@@ -39,7 +37,7 @@ cv inserito per forza
 // PROFILE PAGE
 le altre consigliate 
 aggiungere descrizioni campi complete register>>>>>informazioni
-tutto cliccabile tasto aggiungi inputs complete register
+
 aggiungere piu distacco tra inputs e righe delimitazioni
 la descrizione pdf, non accettare minorenni 
 correggere titoli input togliere protezione accenti
