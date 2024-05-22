@@ -21,27 +21,21 @@ da aggiungere
 fixare trova candidato 
 fixare annunci di lavoro
 ricevere email di conferma e poi entra nella dashboard (da fare)
-// DASHBOARD
-togliere se non ci sono dashboard
 
 // COMPLETE REGISTER
 soltanto corsi a pagamento
 verificare corsi a pagamento per altre email iscritte
 aggiungere visualizazzione utente
 ((((aggiungere url offerta di lavoro se sei azienda)))
-cv inserito per forza 
 
 // PROFILE PAGE
 le altre consigliate 
 aggiungere descrizioni campi complete register>>>>>informazioni
 
-aggiungere piu distacco tra inputs e righe delimitazioni
 la descrizione pdf, non accettare minorenni 
-correggere titoli input togliere protezione accenti
 aggiungere save cv creato come ucv , in pdf
 deve salvare autorizazzione
 anche photo
-resettato lingua manca visualizazzion 
 
 // CREAZIONE BUSINESS
 togliere htpps mettere 
