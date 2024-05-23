@@ -2,32 +2,9 @@
 https://laravel.com/docs/11.x/verification
 
 AGGIUNGERE IGEA JOBS
-Visualizza profilo diventa >>> Gestisci profilo 
-Con menu >>>>
-
-
-// LIMITARE SOLO UN PROFILO BUSINESS
-Crea profilo business >> diventa profilo business
- Con dropdown >>>> gestisci/visualizza/elimina/crea offerta
-
-visualizza profilo
-preferenze lavorative
-Gestisci profilo
 
 Mostrare campi obbligatori con *
 Dopo registrazione mostrare profilo  >>> o pulsante anteprima profilo 
-
-
-
-AZIENDA CREAZIONE
-
-Descrizione-> Controllo quantità testo descrizione azienda (1000 caratteri) >>>uguale presentazione profilo
-
-
-AZIENDA PROFILO
->>>aggiungere non ci sono annunci al momento  /attualmente non ci sono
->>>Togliere contatta e comunicazioni business 
->>> contattata solo tramite offerte di lavoro
 
 
 
