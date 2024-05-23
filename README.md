@@ -1,7 +1,71 @@
 # Cose da aggiungere
+https://laravel.com/docs/11.x/verification
+
+AGGIUNGERE IGEA JOBS
+Visualizza profilo diventa >>> Gestisci profilo 
+Con menu >>>>
+
+
+// LIMITARE SOLO UN PROFILO BUSINESS
+Crea profilo business >> diventa profilo business
+ Con dropdown >>>> gestisci/visualizza/elimina/crea offerta
+
+visualizza profilo
+preferenze lavorative
+Gestisci profilo
+
+Mostrare campi obbligatori con *
+Dopo registrazione mostrare profilo  >>> o pulsante anteprima profilo 
 
 
 
+AZIENDA CREAZIONE
+
+Descrizione-> Controllo quantità testo descrizione azienda (1000 caratteri) >>>uguale presentazione profilo
+
+
+AZIENDA PROFILO
+>>>aggiungere non ci sono annunci al momento  /attualmente non ci sono
+>>>Togliere contatta e comunicazioni business 
+>>> contattata solo tramite offerte di lavoro
+
+
+
+UTENTE PROFILO
+>>> Non mostrare profilo senza completamento
+
+
+CREA OFFERTA DI LAVORO
+>>>descrivi offerta di lavoro
+>>>descrivi il profilo che stai ricercando e >>>max 500 caratteri
+>>>spunta inserire lavoro da remoto >>>spostare descrizione sotto richiesta (non sotto )
+
+
+HOMEPAGE 
+
+Aggiungere sotto ultimi cv , annunci di lavoro
+
+
+ADMIN CREAZIONE OFFERTE LAVORO
+/Link / company name /descrizione /photo/ 
+
+
+LOGICA DI APPROVAZIONE ARTICOLI 
+Per utenti editor >>>
+
+
+// EDITOR
+
+Tutti i profili che hanno completato il profilo hanno LEVEL editor di base 
+
+ARTICLES MANAGER utenti  spiegazione cosa fa , cose succede ecc campi ecc
+
+ARTICOLI 
+
+Bug immagine creazione articoli 
+Titolo >>>> h1 non h3 da visualizzazione 
+Autore sotto titolo 
+Url>>>> diventa titolo articolo 
 
 
 1. responsive
@@ -38,8 +102,6 @@ deve salvare autorizazzione
 anche photo
 
 // CREAZIONE BUSINESS
-togliere htpps mettere 
-ragione sociale diventa tipo di organizazzione mancano campi >>>> prima queste da link aggiungere associazione / associazione culturale / asd /cooperativa sociale /studio professionale poi quelle da link
 aggiungere privacy azinede
 email aziendale aggiungere come campo input
 anche settore 3 scelte >>< resettare scelta 
@@ -50,7 +112,44 @@ qualifica professionale richiesta >>>altro diventa input da inserire
 anni di esperienza aggiungere >>>> 1-3 4-7 7+
 piu professionale richieste insieme 
 
+
+
+
+
+ciao Stefan 
+
+non so se ti ho capitop bene
+
+ma puoi usare la normale procedura di laravel , con la paerte di verifica https://laravel.com/docs/11.x/verification
+
+
+Laravel - The PHP Framework For Web Artisans
+https://laravel.com
+la tabella users ha già un suo campo per la validazione emaiol
+
+
+Gabriele, 09:43
+
+
+questo campo qui
+
+09:51
+va bene grazie mille.
+quindi l email di verifica la invia in automatico laravel .
+
+Gabriele, 09:53
+non per forza, ma è una opzioneche di solito è prevista, specie se hai messo Breeze
+
+c'è già anche la paginetta di conferma ,ecc..
+
+così come ti da già pronta la pagina di login, di recupero password,cecc...
+
 // aggiungere ricerca per tempo pieno ecc
 pulsante indietro
 
 https://it.ucv.online/orgs/aa/edit
+
+
+
+
+
