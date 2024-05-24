@@ -1,6 +1,9 @@
 # Cose da aggiungere
 https://laravel.com/docs/11.x/verification
 
+
+
+
 AGGIUNGERE IGEA JOBS
 
 Mostrare campi obbligatori con *
