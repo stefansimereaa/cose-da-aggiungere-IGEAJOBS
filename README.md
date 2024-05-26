@@ -93,37 +93,6 @@ anni di esperienza aggiungere >>>> 1-3 4-7 7+
 piu professionale richieste insieme 
 
 
-
-
-
-ciao Stefan 
-
-non so se ti ho capitop bene
-
-ma puoi usare la normale procedura di laravel , con la paerte di verifica https://laravel.com/docs/11.x/verification
-
-
-Laravel - The PHP Framework For Web Artisans
-https://laravel.com
-la tabella users ha già un suo campo per la validazione emaiol
-
-
-Gabriele, 09:43
-
-
-questo campo qui
-
-09:51
-va bene grazie mille.
-quindi l email di verifica la invia in automatico laravel .
-
-Gabriele, 09:53
-non per forza, ma è una opzioneche di solito è prevista, specie se hai messo Breeze
-
-c'è già anche la paginetta di conferma ,ecc..
-
-così come ti da già pronta la pagina di login, di recupero password,cecc...
-
 // aggiungere ricerca per tempo pieno ecc
 pulsante indietro
 
