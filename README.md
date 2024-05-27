@@ -1,33 +1,17 @@
 # Cose da aggiungere
 https://laravel.com/docs/11.x/verification
 
-
-
-
 AGGIUNGERE IGEA JOBS
 
 Mostrare campi obbligatori con *
 Dopo registrazione mostrare profilo  >>> o pulsante anteprima profilo 
 
-
-
-UTENTE PROFILO
->>> Non mostrare profilo senza completamento
-
-
-CREA OFFERTA DI LAVORO
->>>descrivi offerta di lavoro
->>>descrivi il profilo che stai ricercando e >>>max 500 caratteri
->>>spunta inserire lavoro da remoto >>>spostare descrizione sotto richiesta (non sotto )
-
-
 HOMEPAGE 
-
 Aggiungere sotto ultimi cv , annunci di lavoro
 
 
 ADMIN CREAZIONE OFFERTE LAVORO
-/Link / company name /descrizione /photo/ 
+company name /descrizione /photo/ 
 
 
 LOGICA DI APPROVAZIONE ARTICOLI 
@@ -87,7 +71,7 @@ email aziendale aggiungere come campo input
 anche settore 3 scelte >>< resettare scelta 
 
 // CREAZIONE LAVORO
-da remoto mettere nei tipi di contratto
+
 qualifica professionale richiesta >>>altro diventa input da inserire 
 anni di esperienza aggiungere >>>> 1-3 4-7 7+
 piu professionale richieste insieme 
