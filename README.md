@@ -1,3 +1,5 @@
+manca show job/ index job/candidati/ricerca jobs
+
 # Cose da aggiungere
 https://laravel.com/docs/11.x/verification
 
