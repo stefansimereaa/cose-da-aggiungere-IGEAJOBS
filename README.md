@@ -2,62 +2,6 @@ manca show job/ index job/candidati/ricerca jobs
 
 # Cose da aggiungere
 https://laravel.com/docs/11.x/verification
-
-# ARTICLE SLUG TITLE URL
-
-Per cambiare l'URL con il titolo degli articoli anziché con l'ID, puoi utilizzare lo "slug" dell'articolo nel percorso dell'URL. Lo slug è una versione amichevole per gli utenti del titolo dell'articolo, generalmente senza spazi e caratteri speciali.
-
-Ecco come puoi fare:
-
-Aggiungi un campo "slug" alla tua tabella degli articoli: Prima di tutto, devi aggiungere un campo alla tua tabella degli articoli per memorizzare lo slug. Puoi farlo tramite una migrazione Laravel o manualmente, a seconda delle tue preferenze.
-
-Genera lo slug dal titolo dell'articolo: Quando crei o aggiorni un articolo, genera lo slug dal titolo dell'articolo. Puoi farlo utilizzando la funzione Str::slug() di Laravel.
-
-Aggiorna il metodo show nel controller: Nel metodo show del tuo controller, cerca l'articolo utilizzando lo slug anziché l'ID e passa lo slug alla vista anziché l'ID.
-
-Ecco come potrebbe apparire il codice:
-
-php
-Copia codice
-use Illuminate\Support\Str;
-
-public function show($slug)
-{
-    // Trova l'articolo per slug o fallisce con errore 404
-    $article = Article::where('slug', $slug)->firstOrFail();
-    $users = User::where('profile_completed', '1')->paginate(10);
-    $user = Auth::user();
-
-    return view('guest.includes.blog.articledetails', compact('article', 'users', 'user'));
-}
-
-public function store(Request $request)
-{
-    // Genera lo slug dal titolo dell'articolo
-    $slug = Str::slug($request->title);
-
-    // Salva l'articolo con lo slug
-    $article = new Article();
-    $article->title = $request->title;
-    $article->slug = $slug;
-    // Altri campi dell'articolo...
-    $article->save();
-
-    // Restituisci una risposta di successo o reindirizza
-}
-Con questa modifica, l'URL per visualizzare un singolo articolo sarà qualcosa del genere: http://example.com/articles/{slug} dove {slug} è lo slug generato dal titolo dell'articolo.
-
-Ricorda di aggiornare anche le tue rotte per utilizzare lo slug anziché l'ID nell'URL.
-
-
-
-
-
-
-
-
-
-
 AGGIUNGERE IGEA JOBS
 
 Mostrare campi obbligatori con *
@@ -71,9 +15,6 @@ ARTICLES MANAGER
 utenti  spiegazione cosa fa , cose succede ecc campi ecc
 
 ARTICOLI 
-Url>>>> diventa titolo articolo 
-
-
 1. responsive
 2. alcuni fix immagini profili e blog (Online sito)
 3. I badge corsi in base al prezzo e tipo corso 
