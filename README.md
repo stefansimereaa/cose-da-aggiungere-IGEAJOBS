@@ -1,20 +1,12 @@
 manca show job/ index job/candidati/ricerca jobs
 
 # Cose da aggiungere
-https://laravel.com/docs/11.x/verification
-AGGIUNGERE IGEA JOBS
+URL USERS >>> USER NAME + ID ACCANTO
 
 Mostrare campi obbligatori con *
-Dopo registrazione mostrare profilo  >>> o pulsante anteprima profilo 
-
-HOMEPAGE 
-LOGICA DI APPROVAZIONE ARTICOLI 
-// EDITOR
-
+Dopo registrazione>>>pulsante anteprima profilo 
 ARTICLES MANAGER 
 utenti  spiegazione cosa fa , cose succede ecc campi ecc
-
-ARTICOLI 
 1. responsive
 2. alcuni fix immagini profili e blog (Online sito)
 3. I badge corsi in base al prezzo e tipo corso 
@@ -54,7 +46,6 @@ anche settore 3 scelte >>< resettare scelta
 // CREAZIONE LAVORO
 
 qualifica professionale richiesta >>>altro diventa input da inserire 
-anni di esperienza aggiungere >>>> 1-3 4-7 7+
 piu professionale richieste insieme 
 
 
