@@ -1,60 +1,49 @@
-manca show job/ index job/candidati/ricerca jobs
-
 # Cose da aggiungere
-URL USERS >>> USER NAME + ID ACCANTO
 
-Mostrare campi obbligatori con *
-Dopo registrazione>>>pulsante anteprima profilo 
-ARTICLES MANAGER 
-utenti  spiegazione cosa fa , cose succede ecc campi ecc
-1. responsive
-2. alcuni fix immagini profili e blog (Online sito)
-3. I badge corsi in base al prezzo e tipo corso 
-9. Annunci di lavoro sezione
-10. dashboard user inserire dove puo vedere/modificare il cv caricato
-12. aggiungere deselezione corsi da mostrare o non /cancellazione dal profilo
-13. aggiungere eliminazioni informazioni di tutti i dati
-16. aggiungere sulla mappa con creazine punti per nuove aziende iscritte
-19. foto azienda verificare funzionamento
-20. manca index companies
-22. manca candidati
-23. show joboffer
+## Generali
+1. Responsive
+2. Restyle grafico
 
-da aggiungere
-fixare trova candidato 
-fixare annunci di lavoro
+## Job Offers
+1. Show Job Offer
+2. Index Job Offers
+3. Search Job Offers
+4. Candidati Job Offers logica
+5. Search Job Offers
+6. Creazione job offer campo   Qualifica Professionale Richiesta [ Aggiungere campo input 'altro' dove si puo inserire un valore ]
+7. Piu Professioni Richieste nella dropdown
 
-// COMPLETE REGISTER
-soltanto corsi a pagamento
-verificare corsi a pagamento per altre email iscritte
-aggiungere visualizazzione utente
-((((aggiungere url offerta di lavoro se sei azienda)))
+## Complete Register
+1. Mostrare campi obbligatori con *
+2. Anteprima Profilo
+3. Aggiungere Descrizioni campi ai lati
 
-// PROFILE PAGE
-le altre consigliate 
-aggiungere descrizioni campi complete register>>>>>informazioni
-la descrizione pdf, non accettare minorenni 
-aggiungere save cv creato come ucv , in pdf
-deve salvare autorizazzione
-anche photo
+## Login and Register
+1. Fixare descrizioni ai lati
+2. Rifare design
 
-// CREAZIONE BUSINESS
-aggiungere privacy azinede
-email aziendale aggiungere come campo input
-anche settore 3 scelte >>< resettare scelta 
+# Dashboard Profile
+1. Inserire dove puo vedere/modificare il cv caricato
+2. Save profile page sotto forma di pdf
 
-// CREAZIONE LAVORO
+## Articles 
+1. utenti  spiegazione cosa fa , cose succede ecc campi ecc
 
-qualifica professionale richiesta >>>altro diventa input da inserire 
-piu professionale richieste insieme 
+## Profile Page
+1. I badge corsi in base al prezzo e tipo corso
+2. Aggiungere slug [ userName + id ]
+3. Aggiungere deselezione corsi da mostrare o non /cancellazione dal profilo
+4. Aggiungere eliminazioni informazioni di tutti i dati
 
+## Companies
+1. Inserire sulla mappa creazine punti per nuove aziende iscritte
+2. Index companies
+3. Show qualche fix
+4. Settore almeno 3 scelte nella creazione
 
-// aggiungere ricerca per tempo pieno ecc
-pulsante indietro
+## Search Users
+1. I badge corsi in base al prezzo e tipo corso
+2. Fixare trova candidato 
 
-https://it.ucv.online/orgs/aa/edit
-
-
-
-
-
+## Blog Section
+1. Fix Imgs and design
