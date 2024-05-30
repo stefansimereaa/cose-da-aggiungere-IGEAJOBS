@@ -25,6 +25,7 @@
 ## Dashboard Profile
 1. Inserire dove puo vedere/modificare il cv caricato
 2. Save profile page sotto forma di pdf
+3. Inserire dove può vedere/modificare le certificazioni caricate 
 
 ## Articles 
 1. utenti  spiegazione cosa fa , cose succede ecc campi ecc
