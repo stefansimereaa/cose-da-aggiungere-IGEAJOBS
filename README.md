@@ -22,7 +22,7 @@
 1. Fixare descrizioni ai lati
 2. Rifare design
 
-# Dashboard Profile
+## Dashboard Profile
 1. Inserire dove puo vedere/modificare il cv caricato
 2. Save profile page sotto forma di pdf
 
